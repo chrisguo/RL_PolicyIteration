@@ -1,0 +1,4 @@
+dealerCard playerSum reward frequency 
+ 0 0 -1 0.189000
+ 0 0 0 0.083000
+ 0 0 1 0.728000
